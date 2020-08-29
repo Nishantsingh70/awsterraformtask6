@@ -1,7 +1,4 @@
-# awsterraformtask6
-
-
-Task-6 
+#Task-6 
 
 Deploy the Wordpress application on Kubernetes and AWS using terraform including the following steps;
 
